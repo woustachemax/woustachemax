@@ -11,7 +11,6 @@ I believe in the transformative power of technology, and I'm here to bring ideas
 
 Here's a sneak peek into my skillset and education! 👇
 
----
 
 ## 🎓 Education
 
