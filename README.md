@@ -7,6 +7,8 @@ I believe in the transformative power of technology, and I'm here to bring ideas
 
 👋 **Hi there!** I’m currently exploring **3D Web Development** with **Three.js**, aiming to provide interactive and immersive user experiences. I am also passionate about building seamless, user-centric web applications using the **MERN Stack** (MongoDB, Express.js, React.js, and Node.js).
 
+**I'm open to entry-level Software Engineering roles!**
+
 Here's a sneak peek into my skillset and education! 👇
 
 ---
