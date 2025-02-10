@@ -60,6 +60,7 @@ I’d love to hear from you! Whether it’s about a potential collaboration, pro
 
 - 📧 **Email:** sid2011thakkar@gmail.com  | sidt@bu.edu
 - 🌐 **LinkedIn:** [Siddharth Thakkar](https://www.linkedin.com/in/sidthakkar/)
+- 💻 **Portfolio:** [woustachemax.github.io/portfolio](https://woustachemax.github.io/portfolio/)  
 
 ---
 
