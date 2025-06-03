@@ -1,6 +1,6 @@
 <h1 align="center">
  <a href="https://github.com/woustachemax">
-   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+there!+I'm;Siddharth+Thakkar;Software+Developer;MERN+Stack+Developer&center=true&width=380&height=50&size=24">
+   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+there!+I'm;Siddharth+Thakkar;Software+Developer;Full+Stack+Developer&center=true&width=380&height=50&size=24">
  </a>
 </h1>
 
