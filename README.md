@@ -36,6 +36,6 @@
 **K.J. Somaiya College of Engineering** - *B.Tech Electronics Engineering* (June 2023)
 
 ---
-Check out my **[Portfolio](https://woustachemax.github.io/portfolio/)**
+Check out my **[Portfolio](https://www.siddharththakkar.xyz/)**
 
 Thanks for visiting! Feel free to explore my repositories and ongoing projects. 😄
